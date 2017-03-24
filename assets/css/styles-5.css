@@ -53,11 +53,11 @@ p {
 }
 .sidebar-wrapper {
   background: #FDA246;
-  position: absolute;
+  /*position: absolute;*/
   right: 0;
-  width: 260px;
+  /*width: 260px;*/
   height: 100%;
-  min-height: 800px;
+  min-height: 200px;
   color: #fff;
 }
 .sidebar-wrapper a {
@@ -154,7 +154,7 @@ p {
 }
 .main-wrapper {
   background: #fff;
-  padding: 60px;
+  padding: 20px;
   padding-right: 300px;
 }
 .main-wrapper .section-title {
@@ -245,8 +245,6 @@ p {
   background: #fec892;
 }
 .footer {
-  padding: 30px;
-  padding-top: 60px;
 }
 .footer .copyright {
   line-height: 1.6;
@@ -263,7 +261,7 @@ p {
     width: inherit;
   }
   .main-wrapper {
-    padding: 30px;
+    padding: 20px;
   }
   .main-wrapper .time {
     position: static;
