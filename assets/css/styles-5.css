@@ -65,6 +65,7 @@ p {
 }
 .sidebar-wrapper .profile-container {
   padding: 20px;
+  padding-bottom: 5px;
   background: rgba(0, 0, 0, 0.2);
   text-align: center;
   color: #fff;
@@ -99,7 +100,7 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .contact-list li a {
-  margin-bottom: 25px;
+  margin-right: 25px;
 }
 .sidebar-wrapper .contact-list .email .fa {
   font-size: 14px;
