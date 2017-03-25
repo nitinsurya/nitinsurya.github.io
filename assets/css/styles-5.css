@@ -91,12 +91,15 @@ p {
   vertical-align: middle;
 }
 .sidebar-wrapper .contact-list li {
-  margin-bottom: 10px;
-  width: 49%;
+  /*margin-bottom: 10px;*/
+  /*width: 49%;*/
   display: inline-block;
 }
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
+}
+.sidebar-wrapper .contact-list li a {
+  margin-bottom: 15px;
 }
 .sidebar-wrapper .contact-list .email .fa {
   font-size: 14px;
